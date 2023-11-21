@@ -18,3 +18,6 @@ const remoteResponse = await fetch('http://localhost:3000/random', {
 ```
 
 ## UML Sequence Diagram
+
+
+![UML_Sequence_Diagram](https://github.com/grantschaures/microservice/assets/41364229/57a6fbff-fff3-4985-8a94-bd5cba7ed4e1)
